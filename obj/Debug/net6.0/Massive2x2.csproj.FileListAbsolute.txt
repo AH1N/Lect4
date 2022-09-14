@@ -1,0 +1,15 @@
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\bin\Debug\net6.0\Massive2x2.exe
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\bin\Debug\net6.0\Massive2x2.deps.json
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\bin\Debug\net6.0\Massive2x2.runtimeconfig.json
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\bin\Debug\net6.0\Massive2x2.dll
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\bin\Debug\net6.0\Massive2x2.pdb
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\Massive2x2.csproj.AssemblyReference.cache
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\Massive2x2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\Massive2x2.AssemblyInfoInputs.cache
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\Massive2x2.AssemblyInfo.cs
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\Massive2x2.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\Massive2x2.dll
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\refint\Massive2x2.dll
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\Massive2x2.pdb
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\Massive2x2.genruntimeconfig.cache
+C:\Users\Zahar\Desktop\ГИК УЧЁБА\С#\Lect4\Massive2x2\obj\Debug\net6.0\ref\Massive2x2.dll
